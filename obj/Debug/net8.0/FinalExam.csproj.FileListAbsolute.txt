@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\РКШПП\FinalExam\bin\Debug\net8.0\FinalExam.exe
+C:\Users\User\Desktop\РКШПП\FinalExam\bin\Debug\net8.0\FinalExam.deps.json
+C:\Users\User\Desktop\РКШПП\FinalExam\bin\Debug\net8.0\FinalExam.runtimeconfig.json
+C:\Users\User\Desktop\РКШПП\FinalExam\bin\Debug\net8.0\FinalExam.dll
+C:\Users\User\Desktop\РКШПП\FinalExam\bin\Debug\net8.0\FinalExam.pdb
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfo.cs
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.sourcelink.json
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.dll
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\refint\FinalExam.dll
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.pdb
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\FinalExam.genruntimeconfig.cache
+C:\Users\User\Desktop\РКШПП\FinalExam\obj\Debug\net8.0\ref\FinalExam.dll
